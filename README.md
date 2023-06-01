@@ -24,13 +24,3 @@ You **do not** need:
 
 - Python knowledge - it is helpful but not required
 - Prior blockchain experience
-
-# Understanding Tezos
-
-## What is Tezos?
-
-Tezos is a blockchain protocol that stands out in the cryptocurrency world for being both public and open-source. It is a smart contracts platform that allows developers to create decentralized applications (Dapps) and execute transactions on a peer-to-peer network.
-
-One of the key features that sets Tezos apart from other blockchain protocols is its use of an energy-efficient Proof-Of-Stake consensus algorithm. This means that instead of using energy-intensive Proof-Of-Work algorithms, Tezos validators (known as "bakers") can create new blocks and validate transactions by "staking" their own tokens as collateral.
-
-Tezos also has a unique self-amending governance system that enables stakeholders to vote on proposed changes to the protocol, reducing the need for hard forks (a common occurrence in other blockchain protocols). This makes Tezos more adaptable and able to evolve over time to meet the needs of its users.
