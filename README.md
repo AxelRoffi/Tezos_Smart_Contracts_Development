@@ -8,7 +8,9 @@ Lesson 0: Welcome to the course
 Lesson 1: Tezos Makes it Possible 
   * Community Building
   * New Features in Gaming
-  * 
+  * New Art Scene for Artists
+  * New Financial Products
+  * Raising Funds
   
 Lesson 2: 
 
